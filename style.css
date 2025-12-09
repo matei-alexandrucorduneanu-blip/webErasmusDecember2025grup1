@@ -1,0 +1,42 @@
+header {
+    background: aqua;
+    text-align: center;
+}
+.poza-rapid {
+    width:300px;
+    display:block;
+    margin: 0 auto;
+}
+body {
+   
+    background: black;
+    color: greenyellow;
+    font-family: monospace;
+}
+h2 {
+    background: rgba(17, 232, 186, 0.848);
+    color: black;
+}
+header {
+    width: 100%;   
+}
+header figure {
+    width: 80px;
+    margin: 0 auto;
+}
+header figure img {
+    width: 100%;
+}
+header ul {
+    list-style: none;
+    padding: 0;
+    display:inline-block;
+}
+.menu li {
+    display: inline;
+    margin: 0 10px;
+}
+ul {
+    padding-left: 0;
+}
+
